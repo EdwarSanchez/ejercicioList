@@ -13,6 +13,7 @@ namespace Ejercicio3_List
             //Instanciacion de la lista
             List<Gato> gatos = new List<Gato>();
             //Declaracion de variables
+            int numero = 23;
             string nombre, color;
             int id = 0;
             int opcion = 0;
