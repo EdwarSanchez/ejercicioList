@@ -1,0 +1,9 @@
+c:\users\telmex\documents\visual studio 2015\Projects\BloqueII\Ejercicio3_List\bin\Debug\Ejercicio3_List.exe.config
+c:\users\telmex\documents\visual studio 2015\Projects\BloqueII\Ejercicio3_List\bin\Debug\Ejercicio3_List.exe
+c:\users\telmex\documents\visual studio 2015\Projects\BloqueII\Ejercicio3_List\bin\Debug\Ejercicio3_List.pdb
+c:\users\telmex\documents\visual studio 2015\Projects\BloqueII\Ejercicio3_List\obj\Debug\Ejercicio3_List.csprojResolveAssemblyReference.cache
+c:\users\telmex\documents\visual studio 2015\Projects\BloqueII\Ejercicio3_List\obj\Debug\Ejercicio3_List.exe
+c:\users\telmex\documents\visual studio 2015\Projects\BloqueII\Ejercicio3_List\obj\Debug\Ejercicio3_List.pdb
+C:\Git\Ejercicio3_List\bin\Debug\Ejercicio3_List.exe.config
+C:\Git\Ejercicio3_List\obj\Debug\Ejercicio3_List.exe
+C:\Git\Ejercicio3_List\obj\Debug\Ejercicio3_List.pdb
